@@ -7,6 +7,7 @@
 .mosthtml {
     margin-left: 15%;
     margin-right: 15%;
+    text-align: center;
 }
 html {
     font-family: Arial;
@@ -27,7 +28,21 @@ html {
 .bghomepage {
     width: 99%;
 }
-
+.footer {
+    width: 100%;
+}
+p {
+    color: #666666;
+}
+.largerp {
+    color: #666666;
+    font-size: 20pt;
+}
+.boldp {
+    color: #666666;
+    font-size: 20pt;
+    font-weight: bold;
+}
 
 
 
