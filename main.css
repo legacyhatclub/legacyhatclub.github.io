@@ -56,7 +56,13 @@ a.navlinks:hover {
 .hidden {
     color: #ffcccc;
 }
-
+a {
+    text-decoration-color: white;
+    color: #666666;
+}
+a:hover {
+    color: red;
+}
 
 
 
