@@ -36,13 +36,29 @@ p {
 }
 .largerp {
     color: #666666;
-    font-size: 20pt;
+    font-size: 13pt;
 }
 .boldp {
     color: #666666;
     font-size: 20pt;
     font-weight: bold;
 }
+.navlinks {
+    text-decoration: none;
+    color: #666666;
+    font-size: 20pt;
+    background-color: #cccccc;
+    padding: 10px;
+}
+a.navlinks:hover {
+    color: #ffff66;
+}
+.hidden {
+    color: #ffcccc;
+}
+
+
+
 
 
 
